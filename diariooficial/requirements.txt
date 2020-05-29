@@ -1,0 +1,4 @@
+pymongo
+Scrapy
+selenium
+dnspython
